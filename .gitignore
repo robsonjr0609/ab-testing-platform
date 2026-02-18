@@ -1,0 +1,8 @@
+node_modules/
+server/.env
+server/ab_testing.db
+server/test_track.js
+server/seed.js
+server/simulation.js
+*.log
+.DS_Store
